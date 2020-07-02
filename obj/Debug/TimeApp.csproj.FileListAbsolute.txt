@@ -1,0 +1,9 @@
+F:\c#\TimeApp\bin\Debug\TimeApp.exe.config
+F:\c#\TimeApp\bin\Debug\TimeApp.exe
+F:\c#\TimeApp\bin\Debug\TimeApp.pdb
+F:\c#\TimeApp\obj\Debug\TimeApp.csprojAssemblyReference.cache
+F:\c#\TimeApp\obj\Debug\TimeApp.Properties.Resources.resources
+F:\c#\TimeApp\obj\Debug\TimeApp.csproj.GenerateResource.cache
+F:\c#\TimeApp\obj\Debug\TimeApp.exe
+F:\c#\TimeApp\obj\Debug\TimeApp.pdb
+F:\c#\TimeApp\obj\Debug\TimeApp.EggTimerForm.resources
